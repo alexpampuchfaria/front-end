@@ -1,6 +1,6 @@
 
 body {
-    background-color:rgb(211, 160, 93);
+    background-color:rgb(90, 118, 150);
 }
 
 h1 {
@@ -9,4 +9,7 @@ h1 {
 h2 {
 
     text-align: left;
+}
+p{
+    color: rgb(179, 17, 17);
 }
