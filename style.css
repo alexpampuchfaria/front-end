@@ -1,15 +1,22 @@
 
 body {
-    background-color:rgb(90, 118, 150);
+    background-color:rgb(31, 29, 29);
 }
 
 h1 {
     text-align: center;
+     color: rgb(224, 177, 47);
 }
 h2 {
 
-    text-align: left;
+    text-align: center;
+    color:rgb(224, 177, 47)
 }
 p{
-    color: rgb(179, 17, 17);
+    color: rgb(245, 245, 245);
+    text-align: center;
+}
+main {
+    
+
 }
