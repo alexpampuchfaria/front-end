@@ -1,25 +1,8 @@
 
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
 header {
    background-color: rgb(253, 227, 160);
+   padding: 200px 0;
+ 
 }
 body {
     background-color: azure;
@@ -28,6 +11,7 @@ body {
 nav li {
     display: inline;
     margin: 0 0 0 15px;
+    
 }
 
 nav a {
@@ -36,9 +20,16 @@ nav a {
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
+   
 
 }
 h1 {
+    text-align: center;
+    font-size: 100px;
 
-font-size: 100px;
+}
+.caixa {
+ position: relative;
+ width: 760px;
+ margin: auto;
 }
