@@ -19,13 +19,13 @@ nav a {
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 29px;
     text-decoration: none;
-   
-
+    text-align:center;
+    
 }
 h1 {
-    text-align: center;
+    text-align:center;
     font-size: 100px;
 
 }
@@ -40,4 +40,8 @@ h1 {
     position:absolute;           
     top: 0 auto;                                      
     right: 0;                              
+}
+.logo {
+    width: 250px;
+  
 }
