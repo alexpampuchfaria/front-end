@@ -1,0 +1,36 @@
+
+body {
+    background-color:azure;
+}
+
+h1 {
+    text-align: center;
+     color: rgb(0, 0, 0);
+}
+h2 {
+
+    text-align: center;
+   color:rgb(236, 208, 131);
+}
+p{
+    color:blueviolet;
+    text-align: center;
+}
+main {
+    
+    background-color: rgb(253, 227, 160);
+
+}
+b{
+
+    color: rgb(54, 54, 54);
+}
+#jojo {
+
+    width: 100%;
+    
+}
+a {
+    font-weight: 900;
+    color: rgb(65, 65, 65);
+}
